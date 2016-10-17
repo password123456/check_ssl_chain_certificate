@@ -6,7 +6,7 @@ When we config https to application,
 sometimes forgot to include ssl chain certification into web server configuration.
 
 This may encounter 'CERTIFICATE_VERIFY_FAILED' message to user.
-You need to Check your ssl chain cerification configuration and fix it.
+You need to check ssl chain cerification configuration and fix it.
 ```
 
 ### USAGE
